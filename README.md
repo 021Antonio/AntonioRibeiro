@@ -1,1 +1,5 @@
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M2T1/Projeto4">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://linklist.bio/LoveLace_Grupo4_-_Inteli">Inteli, Amanda Ribeiro Fontes, Antônio Ribeiro Cavalcante, Erik Bonn Freundt, Felipe Pereira Campos, Henrique Marlon Conceição Santos, Lyorrei Shono Quintão, Sophia Mello Dias</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+
+|<a href="https://github.com/2022M2T1/Projeto4/tree/main/.vscode"><<img style ="width: 50px;" src=<i class="fi fi-rr-document-signed"></i> </a>
+|-->.vscode</a><br>
+  &emsp;|-->settings.json<br>
