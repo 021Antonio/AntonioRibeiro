@@ -1,12 +1,58 @@
+# Inteli - Instituto de Tecnologia e Liderança 
+
+<p align="center">
+<a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
+</p>
+
+#Brazilians in Tech
+<p align="center">
+<a href= https://braziliansintech.com/><img src="https://braziliansintech.com/static/img/logo.png" alt="BiT - Brazilians in Tech" border="0" width="312px"></a>
+</p>
+
+## Lovelace
+
+## Integrantes: 
+- <a href="https://www.linkedin.com/in/amanda-fontes/">Amanda Ribeiro Fontes </a>
+- <a href="https://www.linkedin.com/in/antonioribeiro893/">Antônio Ribeiro Cavalcante </a>
+- <a href="https://www.linkedin.com/in/erikfreundt/">Erik Bonn Freundt </a> 
+- <a href="https://www.linkedin.com/in/felipe-pereira-campos-250aa2231/">Felipe Pereira Campos </a> 
+- <a href="https://www.linkedin.com/in/henriquemarlon/">Henrique Marlon Conceição Santos </a>
+- <a href="https://www.linkedin.com/in/lyorreisquintao/">Lyorrei Shono Quintão </a>
+- <a href="https://www.linkedin.com/in/sophia-dias/">Sophia Mello Dias </a> 
+
+
+## Descrição
+
+📜 Descrição curta sobre o que seu projeto faz.
+<br><br>
+Nosso intuito é desenvolver uma ferramenta que viabilize diminuir o abismo entre mulheres que se interessem pela área de tecnologia e vagas na área STEM de forma fácil e simples, utilizando a estratégia de Employer Branding como principal diferencial.
+<br><br>
+<p align="center">
+<img src="blob:https://web.whatsapp.com/554eb23b-154a-4276-8cb5-8df440630882" alt="LANDING PAGE DO SITE" border="0">
+</p>
+
+
+💡 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+<br><br>
+Tendo em vista o grande gap existente entre as mulheres e o mercado de trabalho e, por outro lado, um crescente aumento na necessidade de mão de obra tech, nosso sistema foi criado com o intúito de ser uma via de solução à essas duas problemáticas.
+<br><br>
+Com um algoritmo baseado nas hard e soft skills da candidata e da vaga, o match é realizado pela porcentagem de semelhança entre as duas (pelo menos 50%), mas só é finalizado a partir de quando a candidata realiza um like no perfil da empresa, este baseado na sua cultura e valores. Ou seja, o like é realizado a partir da identificação da usuária de seus valores com a cultura e valores da empresa que possui vagas compatíveis a suas competências.
+<br><br>
+Portanto, desenvolvemos uma ferramenta que possibilita o encontro mais fácil de candidatas compatíveis a vagas disponíveis tanto em competências de mercado (técnicas e interpessoais), quanto em alinhamento de valores pessoais ao da empresa, possibilitando uma maior inserção de mulheres no mercado de trabalho.
+<br><br>
+<br><br>
+
+## 🛠 Estrutura de pastas
+
 -Projeto4<br>
 |<a href="https://github.com/2022M2T1/Projeto4/tree/main/.vscode">
-📂|-->.vscode</a><br>
+|-->.vscode</a><br>
   &emsp;|-->settings.json<br>
 |<a href="https://github.com/2022M2T1/Projeto4/tree/main/documentos">
-📂|-->documentos</a><br>
-  &emsp;|--><a hre="https://github.com/2022M2T1/Projeto4/tree/main/documentos/antigos">antigos</a><br>
+|-->documentos</a><br>
+  &emsp;|--><a href="https://github.com/2022M2T1/Projeto4/tree/main/documentos/antigos">antigos</a><br>
     |WAD - Documento Aplicação Web (GRUPO 04).docx.pdf<br>
-    📂|WAD - Documento Aplicação Web (Grupo 04) - Versão 4.2<br>
+    |WAD - Documento Aplicação Web (Grupo 04) - Versão 4.2<br>
     |WAD - Grupo 04 - Versão 3.2.pdf<br>
     |WAD - Versão 2.pdf<br>
   &emsp;|--><a href="https://github.com/2022M2T1/Projeto4/blob/main/documentos/WAD%20-%20Documento%20Aplica%C3%A7%C3%A3o%20Web%20(Grupo%2004)%20-%20Vers%C3%A3o%205.2.pdf>WAD - Documento Aplicação Web (Grupo 04) - Versão 5.2</a><br>
@@ -196,3 +242,14 @@ A cada atualização os detalhes devem ser lançados aqui.
 ## 📋 Licença/License
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M2T1/Projeto4">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://linklist.bio/LoveLace_Grupo4_-_Inteli">Inteli, Amanda Ribeiro Fontes, Antônio Ribeiro Cavalcante, Erik Bonn Freundt, Felipe Pereira Campos, Henrique Marlon Conceição Santos, Lyorrei Shono Quintão, Sophia Mello Dias</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 ## 🎓 Referências
+
+Aqui estão as referências usadas no projeto.
+
+1. <https://nodejs.org/en/download/>
+2. <https://www.sqlite.org/download.html>
+3. <https://www.postman.com/downloads/>
+4. <https://sqlitebrowser.org/dl/>
+5. <https://www.flaticon.com/uicons/3>
+6. <https://fontawesome.com/>
+7. <https://coolors.co/f3c42e-530084-280044-ffffff-4563cd>
+
