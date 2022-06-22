@@ -252,5 +252,4 @@ Aqui estão as referências usadas no projeto.
 5. <https://www.flaticon.com/uicons/3>
 6. <https://fontawesome.com/>
 7. <https://coolors.co/f3c42e-530084-280044-ffffff-4563cd>
-
-  <img src = "<i class="fa-light fa-folder"></i>">documentos</a><br>
+<img scr = "https://user-images.githubusercontent.com/99209356/174978599-388f5600-c47c-46a4-9626-9b2af58986d5.svg" width="18px" height="18px">
