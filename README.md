@@ -253,3 +253,4 @@ Aqui estão as referências usadas no projeto.
 6. <https://fontawesome.com/>
 7. <https://coolors.co/f3c42e-530084-280044-ffffff-4563cd>
 
+  <img src = "<i class="fa-light fa-folder"></i>">documentos</a><br>
