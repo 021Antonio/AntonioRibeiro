@@ -46,7 +46,7 @@ Portanto, desenvolvemos uma ferramenta que possibilita o encontro mais fácil de
 
 -Projeto4<br>
 |<a href="https://github.com/2022M2T1/Projeto4/tree/main/.vscode">
-|-->.vscode</a><br>
+|--><i class="fi fi-rr-document"></i>.vscode</a><br>
   &emsp;|-->settings.json<br>
 |<a href="https://github.com/2022M2T1/Projeto4/tree/main/documentos">
 |-->documentos</a><br>
