@@ -45,8 +45,8 @@ Portanto, desenvolvemos uma ferramenta que possibilita o encontro mais fácil de
 ## 🛠 Estrutura de pastas
 
 -Projeto4<br>
-|<a href="https://github.com/2022M2T1/Projeto4/tree/main/.vscode">
-|--><i class="fi fi-rr-document"></i>.vscode</a><br>
+|<a href="https://github.com/2022M2T1/Projeto4/tree/main/.vscode"> <img src = "https://www.flaticon.com/svg/vstatic/svg/3914/3914193.svg?token=exp=1655883458~hmac=2282079d1d75bc0799fd1b2304916a7d">
+|-->.vscode</a><br>
   &emsp;|-->settings.json<br>
 |<a href="https://github.com/2022M2T1/Projeto4/tree/main/documentos">
 |-->documentos</a><br>
@@ -252,27 +252,4 @@ Aqui estão as referências usadas no projeto.
 5. <https://www.flaticon.com/uicons/3>
 6. <https://fontawesome.com/>
 7. <https://coolors.co/f3c42e-530084-280044-ffffff-4563cd>
-  -Projeto4<br>
-|<a href="https://github.com/2022M2T1/Projeto4/tree/main/.vscode">
-|-->.vscode</a><br>
-  &emsp;<img scr = "https://user-images.githubusercontent.com/99209356/174978599-388f5600-c47c-46a4-9626-9b2af58986d5.svg" width="18px" height="18px">settings.json<br>
-|<a href="https://github.com/2022M2T1/Projeto4/tree/main/documentos">
->documentos</a><br>
-  &emsp;|--><a href="https://github.com/2022M2T1/Projeto4/tree/main/documentos/antigos">antigos</a><br>
-<img scr = "https://user-images.githubusercontent.com/99209356/174978725-b4a13b33-7403-4c08-8733-9f42aba6ffcb.svg" width="18px" height="18px">
-    WAD - Documento Aplicação Web (GRUPO 04).docx.pdf<br>
-<img scr = "https://user-images.githubusercontent.com/99209356/174978725-b4a13b33-7403-4c08-8733-9f42aba6ffcb.svg" width="18px" height="18px">
-    WAD - Documento Aplicação Web (Grupo 04) - Versão 4.2<br>
-<img scr = "https://user-images.githubusercontent.com/99209356/174978725-b4a13b33-7403-4c08-8733-9f42aba6ffcb.svg" width="18px" height="18px">
-    WAD - Grupo 04 - Versão 3.2.pdf<br>
-<img scr = "https://user-images.githubusercontent.com/99209356/174978725-b4a13b33-7403-4c08-8733-9f42aba6ffcb.svg" width="18px" height="18px">
-    WAD - Versão 2.pdf<br>
-  &emsp;|--><a href="https://github.com/2022M2T1/Projeto4/blob/main/documentos/WAD%20-%20Documento%20Aplica%C3%A7%C3%A3o%20Web%20(Grupo%2004)%20-%20Vers%C3%A3o%205.2.pdf>WAD - Documento Aplicação Web (Grupo 04) - Versão 5.2</a><br>
-<img scr = "https://user-images.githubusercontent.com/99209356/174978725-b4a13b33-7403-4c08-8733-9f42aba6ffcb.svg" width="18px" height="18px">
-  &emsp;Documentação.docx<br>
-|<a href=https://github.com/2022M2T1/Projeto4/tree/main/imagens><br>
-|-->imagens</a><br>
-  &emsp;|-->Bootstrap_5.0_Screenshot.png<br>
-|<a href="https://github.com/2022M2T1/Projeto4/tree/main/src"><br>
-|-->src</a><br>
-<i class="fi fi-rr-document"></i>
+
