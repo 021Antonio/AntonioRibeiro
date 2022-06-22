@@ -275,3 +275,4 @@ Aqui estão as referências usadas no projeto.
   &emsp;|-->Bootstrap_5.0_Screenshot.png<br>
 |<a href="https://github.com/2022M2T1/Projeto4/tree/main/src"><br>
 |-->src</a><br>
+<i class="fi fi-rr-document"></i>
